@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wenn-die-sonne-sinkt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Wenn die Sonne sinkt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wenn-die-sonne-sinkt/) |
+| **Get License** | [Music Rights & Licensing for Wenn die Sonne sinkt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wenn-die-sonne-sinkt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wenn die Sonne sinkt, brennt die Stadt im Neonlicht
+> Hunderttausend Volt, doch ich such nur dein Gesicht
+> Der Motor heult auf, wir entfliehen der Gefahr
+> Baby, deine Liebe macht mich unantastbar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
